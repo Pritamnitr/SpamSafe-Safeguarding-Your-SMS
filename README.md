@@ -11,7 +11,7 @@
 
 
 
-## Technology used:
+**Technology used:**
             NLP, KNN, ML,Label Encoder, Stacking, Bagging, XGBoost, AdaBoost, GradientBoost,
 Decision Tree,Naive Bayes, GaussianNB, MNB, BNB, NLTK,SVM, TF-IDF etc.
 
