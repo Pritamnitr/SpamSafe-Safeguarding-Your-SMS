@@ -5,15 +5,14 @@
         SMS Spam Classifier.
 
 
- **Project Summary:**
-            Created a refined pipeline, starting with data sanitization and EDA for discerning patterns.
-            Refines raw SMS data into informative vectors, discerning nuanced patterns to differentiate between    authentic and spam messages accurately.
+ ## Project Summary:
+ Created a refined pipeline, starting with data sanitization and EDA for discerning patterns.
+ Refines raw SMS data into informative vectors, discerning nuanced patterns to differentiate between    authentic and spam messages accurately.
 
 
 
-**Technology used:**
-            NLP, KNN, ML,Label Encoder, Stacking, Bagging, XGBoost, AdaBoost, GradientBoost,
-Decision Tree,Naive Bayes, GaussianNB, MNB, BNB, NLTK,SVM, TF-IDF etc.
+## Technology used:
+NLP, KNN, ML,Label Encoder, Stacking, Bagging, XGBoost, AdaBoost, GradientBoost, Decision Tree,Naive Bayes, GaussianNB, MNB, BNB, NLTK,SVM, TF-IDF etc.
 
 
 The project utilizes various technologies to accomplish its tasks effectively:
