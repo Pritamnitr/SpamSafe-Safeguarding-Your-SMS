@@ -78,7 +78,7 @@ By meticulously executing these steps, the project achieves its overarching goal
 
 
  
-**Conclusion:**
+## Conclusion:
 The conclusion summarizes the key findings of the research and emphasizes the efficacy of the proposed SMS spam classification system.
 It underscores the significance of the project in mitigating the threat of SMS spam and enhancing communication security for users.
 
